@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod +x /usr/lib/cpp-compiler-wallee/compiler
+chmod +x /usr/share/applications/C++\ Compiler.desktop
+

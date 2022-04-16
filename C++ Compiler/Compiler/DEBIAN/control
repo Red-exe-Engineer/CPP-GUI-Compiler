@@ -1,0 +1,4 @@
+Package: c++compiler
+Version: 1.0
+Architecture: all
+Description: A simple GUI frontend for the g++ compiler

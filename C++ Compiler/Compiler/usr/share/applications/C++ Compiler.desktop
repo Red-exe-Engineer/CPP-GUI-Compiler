@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=C++ Compiler
+Comment=Compile C++ programs with ease
+Exec=/usr/lib/cpp-compiler-wallee/compiler
+Icon=/usr/share/pixmaps/cpp-compiler-wallee.png
+Path=
+Terminal=false
+StartupNotify=false
